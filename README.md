@@ -2,8 +2,7 @@
 A first-person-shooter minigame built in Unreal Engine 5 using blueprint for scripting.
 
 # About
-Developed a fully functional FPS game from scratch using UE5 learning resources.
-Built fully functional fps game from scratch using UE5's engine.
+Developed a fully functional FPS game from scratch using UE5's and other learning resources.
 Serves as an introduction to game development, UE5's engine, and blueprint scripting.
 
 # Features
